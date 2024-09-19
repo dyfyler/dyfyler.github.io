@@ -10,4 +10,4 @@ redirect_from:
 
 [Curriculum Vitae (CV)](https://ralobos.github.io/files/df_resume.pdf)
 
-I'm a postdoctoral researcher working under the guidance of Prof. Jeffrey Fessler, Prof. Douglas Noll, and Prof. Zhongming Liu at the University of Michigan. I completed my PhD studies at the University of Southern California working under the supervision of Prof. Justin Haldar.  My research interests include signal and image processing, magnetic resonance imaging (MRI), computational imaging, inverse problems, and the connections between machine learning and constrained image reconstruction.
+I am an experienced ultrasonic transducer design engineer. My background includes designing and testing transducers for marine and industrial applications. After gaining experience in industry, I am looking to transition my skills in ultrasonics into the realm of biomedical engineering research. I am currently pursuing a Phd at the University of MIchigan researching therapeutic ultrasound and ultrasonic imaging with the Histotripsy lab. My intent is to take my abilities in transducer design and apply them in new applications which will present new challenges.
